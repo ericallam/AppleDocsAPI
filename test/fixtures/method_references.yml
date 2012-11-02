@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyText
+  abstract: MyText
+  discussion: MyText
+  declaration: MyText
+  anchor: MyText
+  method_type: MyString
+  class_reference_id: 1
+
+two:
+  name: MyText
+  abstract: MyText
+  discussion: MyText
+  declaration: MyText
+  anchor: MyText
+  method_type: MyString
+  class_reference_id: 1

@@ -1,0 +1,11 @@
+development:
+  adapter: postgresql
+  database: appdocs_development
+  host: localhost
+  user: root
+
+test:
+  adapter: postgresql
+  database: appdocs_test
+  host: localhost
+  user: root

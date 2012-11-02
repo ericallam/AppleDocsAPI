@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyText
+  class_reference_id: 1
+
+two:
+  name: MyText
+  class_reference_id: 1
