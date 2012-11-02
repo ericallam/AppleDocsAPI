@@ -6,6 +6,6 @@ class ApiController < ApplicationController
 
   def search
     @method_references = MethodReference.fuzzy_search name: params[:name]
-    render json: @method_references
+    render json: @method_references, root: false
   end
 end
