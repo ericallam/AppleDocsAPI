@@ -1,0 +1,7 @@
+.*.swp
+*.tmproj
+tags
+pkg
+*~
+*.rbc
+Gemfile.lock

@@ -1,0 +1,12 @@
+.autotest
+CHANGELOG.rdoc
+Manifest.txt
+README.rdoc
+Rakefile
+lib/texticle.rb
+lib/texticle/rails.rb
+lib/texticle/searchable.rb
+spec/config.yml
+spec/spec_helper.rb
+spec/texticle_spec.rb
+spec/texticle/searchable_spec.rb
